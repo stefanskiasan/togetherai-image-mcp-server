@@ -2,6 +2,8 @@
 
 An MCP server for generating images using Together AI's image generation models.
 
+<a href="https://glama.ai/mcp/servers/2cwphjnpgw"><img width="380" height="200" src="https://glama.ai/mcp/servers/2cwphjnpgw/badge" alt="Together AI Image Server MCP server" /></a>
+
 ## Setup
 
 1. Install dependencies:
