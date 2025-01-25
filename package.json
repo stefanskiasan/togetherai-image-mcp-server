@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "A Model Context Protocol server",
   "private": true,
+  "license": "MIT",
   "type": "module",
   "bin": {
     "togetherai-image-server": "./build/index.js"
